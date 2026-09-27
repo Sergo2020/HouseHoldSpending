@@ -12,9 +12,9 @@ A local Streamlit dashboard for reviewing household finances. It imports bank an
 
 ## Set up transaction tables
 
-* Currently supports only transaction history from:
-  Banks: Discount and BenLeumi
-  Cards: Max and Cal
+Currently supports only transaction history from:
+* Banks: Discount and BenLeumi
+* Cards: Max and Cal
 
 1. Create a folder for each household member inside `users/`. Its folder name is the label shown in the dashboard.
 2. Inside every member folder, create `bank/` and `credit_card/` folders.
